@@ -13,3 +13,4 @@ public class ExcepcionNoVocales extends Exception {
         super(mensaje);
     }
 }
+
